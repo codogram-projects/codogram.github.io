@@ -309,3 +309,14 @@ section table td img{
 	}
 
 }
+#contact{
+	background-color: #364a5b;
+	border: 1px solid #364a5b;
+	border-radius: 5%;
+}
+#head{
+	color: white;
+}
+#name{
+	width: 10px;
+}
